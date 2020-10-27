@@ -1,3 +1,3 @@
 Main code in form1.cs
 
-Uploaded the full report (unconfidential), see final_report.docx
+Uploaded the full report (non-confidential), see final_report.docx
